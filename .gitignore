@@ -1,0 +1,18 @@
+
+# Variables de entorno
+.env
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
+
+# Logs y temporales
+*.log
+*.tmp
+
+# Dependencias
+vendor/
+node_modules/
